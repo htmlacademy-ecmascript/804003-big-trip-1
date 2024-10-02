@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
-* Студент: [Андрей Ложкин](https://up.htmlacademy.ru/ecmascript-individual/1/user/804003).
-* Наставник: `Неизвестно`.
+- Студент: [Андрей Ложкин](https://up.htmlacademy.ru/ecmascript-individual/1/user/804003).
+- Наставник: [Петр Хасанов](https://htmlacademy.ru/profile/id1058473).
 
 ---
 
